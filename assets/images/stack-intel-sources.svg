@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="18" fill="#0F141B"/>
+  <g font-family="'Segoe UI', sans-serif" font-weight="600" font-size="14" fill="#F4F7FB">
+    <text x="12" y="26">MITRE</text>
+    <text x="12" y="48" fill="#F4C95D">CISA</text>
+    <text x="12" y="68" fill="#7FDBFF">KEV</text>
+  </g>
+  <g font-family="'Segoe UI', sans-serif" font-weight="600" font-size="14" fill="#7FDBFF">
+    <text x="68" y="26">Shadow</text>
+    <text x="68" y="48" fill="#F07167">MTA</text>
+    <text x="68" y="68" fill="#90EE90">Intel</text>
+  </g>
+</svg>

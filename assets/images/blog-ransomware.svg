@@ -1,0 +1,37 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ransomware drill timeline</title>
+  <desc id="desc">Stylized timeline with containment, eradication, and recovery checkpoints.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#201a2b"/>
+      <stop offset="1" stop-color="#0f141c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ffd068"/>
+    </linearGradient>
+    <linearGradient id="secondary" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6c8bff"/>
+      <stop offset="1" stop-color="#3dc7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#bg)"/>
+  <rect x="30" y="70" width="580" height="220" rx="28" fill="#0f1118" stroke="#23283b" stroke-width="2"/>
+  <path d="M90 180 H550" stroke="#1f2334" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="150" cy="180" r="16" fill="#15192a" stroke="#ffb347" stroke-width="3"/>
+  <circle cx="310" cy="180" r="16" fill="#15192a" stroke="#6c8bff" stroke-width="3"/>
+  <circle cx="470" cy="180" r="16" fill="#15192a" stroke="#ffb347" stroke-width="3"/>
+  <rect x="110" y="110" width="120" height="36" rx="10" fill="#1d2132" stroke="#272e45"/>
+  <rect x="126" y="120" width="88" height="16" rx="8" fill="url(#accent)"/>
+  <rect x="270" y="110" width="120" height="36" rx="10" fill="#1d2132" stroke="#272e45"/>
+  <rect x="286" y="120" width="88" height="16" rx="8" fill="url(#secondary)"/>
+  <rect x="430" y="110" width="120" height="36" rx="10" fill="#1d2132" stroke="#272e45"/>
+  <rect x="446" y="120" width="88" height="16" rx="8" fill="url(#accent)"/>
+  <rect x="110" y="214" width="420" height="52" rx="14" fill="#141726" stroke="#23283b"/>
+  <rect x="130" y="232" width="360" height="12" rx="6" fill="#1f2334"/>
+  <rect x="130" y="248" width="240" height="12" rx="6" fill="url(#secondary)"/>
+  <rect x="70" y="70" width="80" height="28" rx="14" fill="#1d2132" stroke="#2f3650"/>
+  <rect x="82" y="80" width="56" height="8" rx="4" fill="#ffb347"/>
+  <rect x="470" y="70" width="100" height="28" rx="14" fill="#1d2132" stroke="#2f3650"/>
+  <rect x="484" y="80" width="72" height="8" rx="4" fill="#6c8bff"/>
+</svg>

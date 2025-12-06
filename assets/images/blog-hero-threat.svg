@@ -1,0 +1,42 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Threat simulation planning</title>
+  <desc id="desc">Abstract dashboard showing ransomware drill phases and containment timers.</desc>
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f1b2a"/>
+      <stop offset="1" stop-color="#0f1118"/>
+    </linearGradient>
+    <linearGradient id="heroAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ffcc67"/>
+    </linearGradient>
+    <linearGradient id="heroPurple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7a5fff"/>
+      <stop offset="1" stop-color="#5ad1ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#heroBg)"/>
+  <rect x="32" y="32" width="576" height="296" rx="24" fill="#10121a" stroke="#2a2f3f" stroke-width="2"/>
+  <rect x="56" y="60" width="160" height="28" rx="14" fill="#1d2030" stroke="#2f3447"/>
+  <rect x="72" y="68" width="96" height="12" rx="6" fill="url(#heroAccent)"/>
+  <rect x="240" y="60" width="160" height="28" rx="14" fill="#1d2030" stroke="#2f3447"/>
+  <rect x="256" y="68" width="72" height="12" rx="6" fill="#3f82ff"/>
+  <rect x="420" y="60" width="160" height="28" rx="14" fill="#1d2030" stroke="#2f3447"/>
+  <rect x="436" y="68" width="96" height="12" rx="6" fill="#7a5fff"/>
+  <circle cx="120" cy="156" r="54" fill="#111422" stroke="#252a3c" stroke-width="2"/>
+  <circle cx="120" cy="156" r="40" fill="#151929" stroke="#2d3347"/>
+  <path d="M120 116 A40 40 0 0 1 160 156" stroke="url(#heroAccent)" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M120 196 A40 40 0 0 1 80 156" stroke="url(#heroPurple)" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="120" cy="156" r="8" fill="#ffcc67"/>
+  <rect x="200" y="120" width="384" height="64" rx="16" fill="#141726" stroke="#262c3d"/>
+  <rect x="216" y="140" width="352" height="8" rx="4" fill="#1f2232"/>
+  <rect x="216" y="156" width="280" height="8" rx="4" fill="url(#heroAccent)"/>
+  <rect x="216" y="172" width="200" height="8" rx="4" fill="url(#heroPurple)"/>
+  <rect x="200" y="212" width="384" height="80" rx="16" fill="#141726" stroke="#262c3d"/>
+  <rect x="216" y="232" width="180" height="12" rx="6" fill="#1f2232"/>
+  <rect x="216" y="252" width="250" height="12" rx="6" fill="#2b2f42"/>
+  <rect x="216" y="272" width="140" height="12" rx="6" fill="url(#heroAccent)"/>
+  <rect x="416" y="222" width="144" height="52" rx="14" fill="#1e2233" stroke="#31374b"/>
+  <rect x="428" y="236" width="120" height="12" rx="6" fill="#2f3650"/>
+  <rect x="428" y="256" width="88" height="12" rx="6" fill="url(#heroPurple)"/>
+</svg>

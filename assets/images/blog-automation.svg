@@ -1,0 +1,42 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Phishing automation pipeline</title>
+  <desc id="desc">Abstract workflow blocks representing automated credential phishing response.</desc>
+  <defs>
+    <linearGradient id="autoBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1f33"/>
+      <stop offset="1" stop-color="#0d111b"/>
+    </linearGradient>
+    <linearGradient id="autoAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ffd36b"/>
+    </linearGradient>
+    <linearGradient id="autoBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5a8bff"/>
+      <stop offset="1" stop-color="#52e3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#autoBg)"/>
+  <rect x="36" y="52" width="568" height="256" rx="26" fill="#0b0e17" stroke="#20273a" stroke-width="2"/>
+  <rect x="76" y="96" width="120" height="80" rx="18" fill="#151b2a" stroke="#262f44"/>
+  <rect x="94" y="124" width="84" height="28" rx="14" fill="#1c2435"/>
+  <rect x="110" y="132" width="52" height="12" rx="6" fill="#ffb347"/>
+  <rect x="260" y="96" width="120" height="80" rx="18" fill="#151b2a" stroke="#262f44"/>
+  <rect x="278" y="124" width="84" height="28" rx="14" fill="#1c2435"/>
+  <rect x="294" y="132" width="52" height="12" rx="6" fill="#5a8bff"/>
+  <rect x="444" y="96" width="120" height="80" rx="18" fill="#151b2a" stroke="#262f44"/>
+  <rect x="462" y="124" width="84" height="28" rx="14" fill="#1c2435"/>
+  <rect x="478" y="132" width="52" height="12" rx="6" fill="#52e3ff"/>
+  <rect x="140" y="196" width="360" height="76" rx="18" fill="#111727" stroke="#222a3f"/>
+  <rect x="162" y="216" width="140" height="16" rx="8" fill="#1b2234"/>
+  <rect x="162" y="240" width="120" height="16" rx="8" fill="#ffb347"/>
+  <rect x="322" y="216" width="120" height="16" rx="8" fill="#1b2234"/>
+  <rect x="322" y="240" width="160" height="16" rx="8" fill="#5a8bff"/>
+  <path d="M196 136 H248" stroke="#ffb347" stroke-width="6" stroke-linecap="round"/>
+  <path d="M380 136 H432" stroke="#5a8bff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M140 234 L120 234" stroke="#ffb347" stroke-width="6" stroke-linecap="round"/>
+  <path d="M500 234 L520 234" stroke="#5a8bff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="196" cy="136" r="6" fill="#ffb347"/>
+  <circle cx="380" cy="136" r="6" fill="#5a8bff"/>
+  <circle cx="248" cy="136" r="6" fill="#ffd36b"/>
+  <circle cx="432" cy="136" r="6" fill="#52e3ff"/>
+</svg>

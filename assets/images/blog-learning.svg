@@ -1,0 +1,58 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Learning streak tracker</title>
+  <desc id="desc">Calendar heatmap showing a 60-day learning streak.</desc>
+  <defs>
+    <linearGradient id="learnBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142429"/>
+      <stop offset="1" stop-color="#0b131b"/>
+    </linearGradient>
+    <linearGradient id="learnAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5af0b5"/>
+      <stop offset="1" stop-color="#41b6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#learnBg)"/>
+  <rect x="40" y="60" width="560" height="240" rx="26" fill="#081016" stroke="#1a2732" stroke-width="2"/>
+  <rect x="64" y="88" width="200" height="32" rx="14" fill="#101c25" stroke="#1e2d3b"/>
+  <rect x="78" y="100" width="132" height="12" rx="6" fill="#5af0b5"/>
+  <rect x="284" y="88" width="140" height="32" rx="14" fill="#101c25" stroke="#1e2d3b"/>
+  <rect x="298" y="100" width="96" height="12" rx="6" fill="#41b6ff"/>
+  <g transform="translate(80 140)">
+    <g fill="#0f1a23" stroke="#1f2c38">
+      <rect x="0" y="0" width="36" height="36" rx="8"/>
+      <rect x="46" y="0" width="36" height="36" rx="8"/>
+      <rect x="92" y="0" width="36" height="36" rx="8"/>
+      <rect x="138" y="0" width="36" height="36" rx="8"/>
+      <rect x="184" y="0" width="36" height="36" rx="8"/>
+      <rect x="230" y="0" width="36" height="36" rx="8"/>
+      <rect x="276" y="0" width="36" height="36" rx="8"/>
+      <rect x="0" y="46" width="36" height="36" rx="8"/>
+      <rect x="46" y="46" width="36" height="36" rx="8"/>
+      <rect x="92" y="46" width="36" height="36" rx="8"/>
+      <rect x="138" y="46" width="36" height="36" rx="8"/>
+      <rect x="184" y="46" width="36" height="36" rx="8"/>
+      <rect x="230" y="46" width="36" height="36" rx="8"/>
+      <rect x="276" y="46" width="36" height="36" rx="8"/>
+    </g>
+    <rect x="0" y="0" width="36" height="36" rx="8" fill="#1a2f23" stroke="#1f2c38"/>
+    <rect x="46" y="0" width="36" height="36" rx="8" fill="#164432" stroke="#1f2c38"/>
+    <rect x="92" y="0" width="36" height="36" rx="8" fill="#19633f" stroke="#1f2c38"/>
+    <rect x="138" y="0" width="36" height="36" rx="8" fill="#138d4f" stroke="#1f2c38"/>
+    <rect x="184" y="0" width="36" height="36" rx="8" fill="#08b764" stroke="#1f2c38"/>
+    <rect x="230" y="0" width="36" height="36" rx="8" fill="#0fd07e" stroke="#1f2c38"/>
+    <rect x="276" y="0" width="36" height="36" rx="8" fill="#1ae897" stroke="#1f2c38"/>
+    <rect x="0" y="46" width="36" height="36" rx="8" fill="#0f1a23" stroke="#1f2c38"/>
+    <rect x="46" y="46" width="36" height="36" rx="8" fill="#112632" stroke="#1f2c38"/>
+    <rect x="92" y="46" width="36" height="36" rx="8" fill="#0f1a23" stroke="#1f2c38"/>
+    <rect x="138" y="46" width="36" height="36" rx="8" fill="#164432" stroke="#1f2c38"/>
+    <rect x="184" y="46" width="36" height="36" rx="8" fill="#138d4f" stroke="#1f2c38"/>
+    <rect x="230" y="46" width="36" height="36" rx="8" fill="#0fd07e" stroke="#1f2c38"/>
+    <rect x="276" y="46" width="36" height="36" rx="8" fill="#1ae897" stroke="#1f2c38"/>
+  </g>
+  <rect x="420" y="140" width="160" height="120" rx="20" fill="#0f1822" stroke="#1e2b38"/>
+  <rect x="440" y="164" width="120" height="16" rx="8" fill="#12212d"/>
+  <rect x="440" y="186" width="100" height="12" rx="6" fill="#172b38"/>
+  <rect x="440" y="206" width="120" height="12" rx="6" fill="#41b6ff"/>
+  <rect x="440" y="226" width="80" height="12" rx="6" fill="#5af0b5"/>
+  <rect x="440" y="246" width="140" height="12" rx="6" fill="#12212d"/>
+</svg>

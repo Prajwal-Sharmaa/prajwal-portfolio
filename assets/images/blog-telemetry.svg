@@ -1,0 +1,39 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Telemetry hunting dashboard</title>
+  <desc id="desc">Stylized charts built from open-source log pipelines.</desc>
+  <defs>
+    <linearGradient id="teleBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172436"/>
+      <stop offset="1" stop-color="#0c121d"/>
+    </linearGradient>
+    <linearGradient id="teleAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#56c7ff"/>
+      <stop offset="1" stop-color="#7a5fff"/>
+    </linearGradient>
+    <linearGradient id="teleOrange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ffd36b"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#teleBg)"/>
+  <rect x="36" y="50" width="568" height="260" rx="24" fill="#0b0f17" stroke="#1f2a3c" stroke-width="2"/>
+  <rect x="60" y="72" width="200" height="24" rx="12" fill="#151d2b" stroke="#273246"/>
+  <rect x="76" y="80" width="96" height="8" rx="4" fill="#56c7ff"/>
+  <rect x="280" y="72" width="120" height="24" rx="12" fill="#151d2b" stroke="#273246"/>
+  <rect x="296" y="80" width="72" height="8" rx="4" fill="#ffb347"/>
+  <rect x="60" y="120" width="260" height="180" rx="18" fill="#121a28" stroke="#1f2a3c"/>
+  <rect x="340" y="120" width="240" height="180" rx="18" fill="#121a28" stroke="#1f2a3c"/>
+  <polyline points="80,260 120,210 160,230 200,170 240,190 300,150" fill="none" stroke="url(#teleAccent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="80" cy="260" r="6" fill="#56c7ff"/>
+  <circle cx="200" cy="170" r="6" fill="#56c7ff"/>
+  <circle cx="300" cy="150" r="6" fill="#56c7ff"/>
+  <rect x="364" y="140" width="80" height="80" rx="16" fill="#151d2b" stroke="#273246"/>
+  <rect x="372" y="170" width="64" height="20" rx="10" fill="#1e2739"/>
+  <rect x="372" y="146" width="64" height="16" rx="8" fill="url(#teleOrange)"/>
+  <rect x="464" y="140" width="96" height="160" rx="18" fill="#151d2b" stroke="#273246"/>
+  <rect x="480" y="168" width="64" height="96" rx="12" fill="#1a2233"/>
+  <rect x="480" y="232" width="64" height="32" rx="8" fill="url(#teleAccent)"/>
+  <rect x="364" y="240" width="80" height="12" rx="6" fill="#1e2739"/>
+  <rect x="364" y="258" width="120" height="12" rx="6" fill="#243149"/>
+  <rect x="364" y="276" width="150" height="12" rx="6" fill="url(#teleOrange)"/>
+</svg>

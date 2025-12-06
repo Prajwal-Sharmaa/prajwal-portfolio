@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="18" fill="#0E1218"/>
+  <g font-family="'Segoe UI', sans-serif" font-weight="600" font-size="16">
+    <text x="12" y="28" fill="#F7F7F7">SANS</text>
+    <text x="12" y="52" fill="#F07167">DFIR Report</text>
+    <text x="12" y="72" fill="#9BEF9B">Huntress</text>
+  </g>
+</svg>

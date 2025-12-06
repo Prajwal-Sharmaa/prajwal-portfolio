@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none">
+  <defs>
+    <linearGradient id="bgCompliance" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1424"/>
+      <stop offset="100%" stop-color="#15253c"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="200" rx="26" fill="url(#bgCompliance)"/>
+  <rect x="70" y="50" width="180" height="100" rx="22" stroke="#253f5b" stroke-width="4" fill="#0f1d30"/>
+  <path d="M110 130h100" stroke="#7fdbff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M110 110h100" stroke="#f4c95d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M110 90h60" stroke="#f07167" stroke-width="6" stroke-linecap="round"/>
+  <path d="M200 74h20v72h-20" stroke="#90ee90" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 130l20-22 18 18 24-28" stroke="#00d1b2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="160" y="170" fill="#f4f7fb" font-size="20" font-family="'Segoe UI', sans-serif" font-weight="600" text-anchor="middle">Compliance Portal</text>
+</svg>
